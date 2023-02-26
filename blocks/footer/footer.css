@@ -1,0 +1,9 @@
+/* FOOTER */
+
+.footer {
+  color: #fff;
+  width: calc(100% - 50px * 2);
+  margin: auto;
+  display: flex;
+  justify-content: space-between;
+}

@@ -1,0 +1,6 @@
+/* COVER */
+
+.cover {
+  margin: 109px auto 75px auto;
+  width: calc(100% - 50px*2);
+}

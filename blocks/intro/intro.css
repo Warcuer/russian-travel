@@ -1,0 +1,7 @@
+/* INTRO */
+
+.intro {
+  width: calc(100% - 147px * 2);
+  padding: 72px 0 0;
+  margin: 0 auto 0 auto;
+}

@@ -1,0 +1,10 @@
+/* HEADER */
+
+.header {
+  display: flex;
+  width: calc(100% - 50px * 2);
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  margin: 28px auto 76px auto;
+}
