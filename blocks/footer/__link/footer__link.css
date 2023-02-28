@@ -7,6 +7,13 @@
   opacity: 1;
   transition: opacity .5s ease-in;
 }
-.footer__link:hover{
+
+.footer__link:hover {
   opacity: 0.4;
+}
+
+@media screen and (max-width: 767px) {
+  .footer__link {
+    font-size: 24px;
+  }
 }

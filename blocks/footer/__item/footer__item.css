@@ -1,11 +1,13 @@
-@media screen and (max-width: 767px){
+@media screen and (max-width: 767px) {
   .footer__item {
-      margin-top: 32px;
-    }
-  .footer__item:first-child{
+    margin-top: 32px;
+  }
+
+  .footer__item:first-child {
     margin: 0;
   }
-  .footer__item:last-child{
+
+  .footer__item:last-child {
     margin-bottom: 48px;
   }
-  }
+}

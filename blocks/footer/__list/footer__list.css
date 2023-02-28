@@ -5,8 +5,9 @@
   column-gap: 18px;
   margin: 0;
 }
-@media screen and (max-width: 767px){
-.footer__list {
+
+@media screen and (max-width: 767px) {
+  .footer__list {
     flex-direction: column;
   }
 }

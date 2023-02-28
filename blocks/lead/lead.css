@@ -1,20 +1,20 @@
-/* LEAD */
-
 .lead {
-  width: calc(100% - 150px * 2);
+  width: calc(100% - 148px * 2);
   display: flex;
   flex-direction: column;
   flex-wrap: wrap;
   align-items: center;
   margin: auto;
 }
+
 @media screen and (max-width:1279px) {
-  .lead{
-    width: calc(100% - 50px * 2);
+  .lead {
+    width: calc(100% - 48px * 2);
   }
 }
+
 @media screen and (max-width:1023px) {
-  .lead{
+  .lead {
     width: 100%;
   }
 }

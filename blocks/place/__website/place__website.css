@@ -4,9 +4,10 @@
   flex-wrap: wrap;
   justify-content: flex-end;
 }
-@media screen and (max-width: 767px){
-.place__website {
-    width: calc(100% - 2 * 15px);
+
+@media screen and (max-width: 767px) {
+  .place__website {
+    width: calc(100% - 2 * 16px);
     margin: 0 auto;
   }
 }

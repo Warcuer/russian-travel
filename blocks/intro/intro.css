@@ -1,22 +1,23 @@
-/* INTRO */
-
 .intro {
-  width: calc(100% - 150px * 2);
+  width: calc(100% - 148px * 2);
   padding: 72px 0 0;
   margin: 0 auto 0 auto;
 }
-@media screen and (max-width:1279px){
-  .intro{
-    width: calc(100% - 50px * 2);
+
+@media screen and (max-width:1279px) {
+  .intro {
+    width: calc(100% - 48px * 2);
   }
 }
-@media screen and (max-width:1023px){
-  .intro{
-    width: calc(100% - 25px * 2);
+
+@media screen and (max-width:1023px) {
+  .intro {
+    width: calc(100% - 24px * 2);
   }
 }
-@media screen and (max-width:767px){
-  .intro{
-    width: calc(100% - 15px * 2);
+
+@media screen and (max-width:767px) {
+  .intro {
+    width: calc(100% - 16px * 2);
   }
 }
