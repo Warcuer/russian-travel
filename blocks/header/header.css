@@ -4,12 +4,19 @@
   flex-direction: row;
   flex-wrap: wrap;
   justify-content: space-between;
-  margin: 28px auto 74px;
+  margin: 28px auto 56px;
+  align-content: center;
 }
 
 @media screen and (max-width: 1279px) {
   .header {
     margin: 28px auto 48px;
+  }
+}
+
+@media screen and (max-width: 1023px) {
+  .header {
+    width: calc(100% - 24px * 2);
   }
 }
 
